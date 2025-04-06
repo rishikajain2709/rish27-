@@ -1,9 +1,6 @@
 # rish27-
 <h1 align="center">Hey there! I'm Rishika 👋</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rishika-jain-b11506256/" target="_blank">LinkedIn</a> <a href="rishikjain2709@gmail.com">Gmail</a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishika-jain-b11506256/ target="_blank">
@@ -12,7 +9,7 @@
   <a href="https://leetcode.com/u/_rish27_/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="rishikjain2709@gmail.com">
+  <a href="rishikajain2709@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
  
