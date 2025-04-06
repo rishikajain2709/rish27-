@@ -5,6 +5,18 @@
   <a href="https://www.linkedin.com/in/rishika-jain-b11506256/" target="_blank">LinkedIn</a> <a href="rishikjain2709@gmail.com">Gmail</a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishika-jain-b11506256/ target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/_rish27_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="rishikjain2709@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+ 
+</p>
 ---
 
 ### 🙋‍♀️ About Me
@@ -38,15 +50,6 @@
 - 🏆 **Winner of Java Challenge** – Ranked **#1 among 180 students** at **Sheryians Pvt. Ltd**, showcasing strong Java expertise
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rish27&show_icons=true&theme=radical" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 📧 Email: [rishikajain2709@gmail.com](mailto:your-email@gmail.com)
