@@ -1,8 +1,8 @@
 # rish27-
-<h1 align="center">Hey there! I'm Rishika 👋</h1>
+<h1 align="left">Hey there! I'm Rishika 👋</h1>
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/rishika-jain-b11506256/ target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -12,7 +12,7 @@
 
  
 </p>
----
+
 
 ### 🙋‍♀️ About Me
 
