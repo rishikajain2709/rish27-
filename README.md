@@ -2,9 +2,7 @@
 <h1 align="center">Hey there! I'm Rishika 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishika-jain-b11506256/" target="_blank">LinkedIn</a> •
-
-  <a href="rishikjain2709@gmail.com">Gmail</a>
+  <a href="https://www.linkedin.com/in/rishika-jain-b11506256/" target="_blank">LinkedIn</a> <a href="rishikjain2709@gmail.com">Gmail</a>
 </p>
 
 ---
@@ -44,7 +42,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rish27-&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rish27&show_icons=true&theme=radical" />
 </p>
 
 ---
