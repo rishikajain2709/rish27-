@@ -1,4 +1,4 @@
-# rish27-
+
 <h1 align="left">Hey there! I'm Rishika 👋</h1>
 
 
